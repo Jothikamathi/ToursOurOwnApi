@@ -1,0 +1,13 @@
+.a2{
+    background-image: url(https://wallpaperaccess.com/full/488392.jpg);
+    margin-top: 20px;
+}
+h1{
+    margin-left: 40px;
+   color: wheat;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    font-size: larger;
+    -webkit-text-stroke: 0.5px  wheat;
+
+}

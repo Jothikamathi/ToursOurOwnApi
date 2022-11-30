@@ -1,0 +1,46 @@
+.whole{
+    
+}
+#a1{
+    width:600px;
+    height:300px;
+    margin:20px;
+    margin-left: 100px;
+}
+.single-tour{
+     box-shadow: 2px 2px 4px 4px black;
+     width:800px;
+     height: 600px;
+     margin: 25px;
+     margin-left: 200px;
+     background-image: url(https://img.freepik.com/free-photo/maple-leaf-border-background-orange-watercolor-autumn-season_53876-128735.jpg?w=2000);
+}
+p{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    font-size: larger;
+    -webkit-text-stroke: 0.5px lawngreen;
+}
+h2{
+    text-align: center;
+    font-weight: bold;
+    font-family:sans-serif;
+    font-size: larger;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+.delete-btn{
+    padding: 10px;
+    background-color:rgb(55, 33, 4);
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+    color:sandybrown;
+    border-radius: 20px;
+    margin-left: 600px;
+}
